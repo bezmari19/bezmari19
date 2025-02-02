@@ -8,9 +8,8 @@
 -->
 
 <a href="https://github.com/bezmari19/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bezmari19&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=jolly" />
-<a href="https://github.com/bezmari19/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&show_icons=true&theme=jolly&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bezmari19&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=jolly" /> 
+  <a href="https://github.com/bezmari19/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&show_icons=true&theme=jolly&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## ⌨️ Linguagens: 
