@@ -8,9 +8,9 @@
 -->
 
 <a href="https://github.com/bezmari19/github-readme-stats">
-  <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=jolly&card_width=150" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=jolly&card_width=150" />
 <a href="https://github.com/bezmari9/convoychat">
-  <img height=200 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=jolly&layout=compact&langs_count=8&card_width=230" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=jolly&layout=compact&langs_count=8&card_width=230" />
 </a>
 
 ## ⌨️ Linguagens: 
@@ -24,7 +24,6 @@
 <div> 
   <a href = "mailto:marina.bezerraf19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marina-ferraz-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
   
 
