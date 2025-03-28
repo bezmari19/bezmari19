@@ -2,15 +2,15 @@
 
 - 💕 Desenvolvimento Back-end
 - 🎓 Graduanda em Ciências da Computação
-- 📕 Atualmente estudando linguagem Python
+- 📕 Atualmente estudando linguagem Python, C e JavaScript
 - 👧🏻 Ela/Dela
 - ✨ Gamer, desenhista e escritora como hobbies principais
 -->
 
 <div>
     <a href="https://github.com/bezmari19/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=jolly"/>
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=jolly&layout=compact&langs_count=8"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=jolly"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=jolly&layout=compact&langs_count=8"/>
 </div>
 
 ## ⌨️ Linguagens: 
