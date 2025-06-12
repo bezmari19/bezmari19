@@ -7,7 +7,7 @@
 - ✨ Gamer, desenhista e escritora como hobbies principais
 -->
 
-<div align="center">>
+<div align="center">
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=jolly&layout=compact&langs_count=8"/>
       <a href="https://github.com/bezmari19/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=jolly"/>
