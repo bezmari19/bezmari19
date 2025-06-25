@@ -9,7 +9,7 @@
 
 <br>
 
-<p style="text-align:center; font-weight: bold; font-size: 15px;"><mark style="background-color: #ff1493; color: white">Aqui você encontrará todos os meus projetos</p></mark>
+<p style="text-align:center; font-weight: bold; font-size: 15;"><mark style="background-color: #ff1493; color: white">Aqui você encontrará todos os meus projetos</p></mark>
 
 ## <center> **Ranking: Linguagens, commits e projetos:** </center>
 
