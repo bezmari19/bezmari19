@@ -9,7 +9,13 @@
 
 <br>
 
-**<div align="center"><span style="color:white; background-color:#ff1493;">Aqui você encontrará todos os meus projetos</span></div>**
+<p align="center">
+  <strong>
+    <span style="color:white; background-color:#ff1493; padding:4px 12px; border-radius:6px;">
+      Aqui você encontrará todos os meus projetos
+    </span>
+  </strong>
+</p>
 
 ## <center> **Ranking: Linguagens, commits e projetos:** </center>
 
