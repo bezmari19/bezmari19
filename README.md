@@ -14,9 +14,9 @@
 ## <center> **Ranking: Linguagens, commits e projetos:** </center>
 
 <div align="center">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=jolly&layout=compact&langs_count=8"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=rose&layout=compact&langs_count=8"/>
       <a href="https://github.com/bezmari19/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=jolly"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=rose"/>
 </div>
 
 <hr>
