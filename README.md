@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>
-    <span style="color:white; background-color:#ff1493; padding:4px 12px; border-radius:6px;">
+    <span style="color:white; background-color:#ff1493; padding:4 12; border-radius:6;">
       Aqui você encontrará todos os meus projetos
     </span>
   </strong>
@@ -20,9 +20,9 @@
 ## <center> **Ranking: Linguagens, commits e projetos:** </center>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&count_private=true" width="340"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezmari19&theme=jolly&hide_border=false" width="340"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&layout=compact" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&count_private=true" width="320"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezmari19&theme=jolly&hide_border=false" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&layout=compact" width="320"/>
 </p>
 
 <hr>
