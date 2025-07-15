@@ -19,19 +19,17 @@
 
 ## <center> **Ranking: Linguagens, commits e projetos:** </center>
 
-<!-- Estatísticas do GitHub em pt-br -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&count_private=true&locale=pt-br" alt="bezmari19's Stats"/>
+</p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezmari19&theme=rose&layout=compact&langs_count=8&locale=pt-br" alt="Principais Linguagens"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bezmari19&theme=jolly&hide_border=false&locale=pt-br" alt="bezmari19's Streak"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/bezmari19/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bezmari19&show_icons=true&theme=rose&locale=pt-br" alt="Estatísticas do GitHub"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&layout=compact&locale=pt-br" alt="bezmari19's Top Languages"/>
 </p>
-  </a>
-</div>
-</div>
 
 <hr>
 
