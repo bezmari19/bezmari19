@@ -20,10 +20,9 @@
 ## <center> **Ranking: Linguagens, commits e projetos:** </center>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&count_private=true&locale=pt-br" alt="bezmari19's Stats"/>
-</p>
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&layout=compact&locale=pt-br" alt="bezmari19's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&count_private=true" width="340"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezmari19&theme=jolly&hide_border=false" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezmari19&theme=jolly&show_icons=true&hide_border=false&layout=compact" width="340"/>
 </p>
 
 <hr>
